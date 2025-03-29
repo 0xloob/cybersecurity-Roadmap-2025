@@ -57,7 +57,7 @@ Moving to fundamentals, these are the most popular certifications that most entr
   - Optimize your profile for recruiters
 
 ### Networking
--Learn how to Network NETWORK = NET-WORTH
+Learn how to Network NETWORK = NET-WORTH
 - Attend cybersecurity meetups/conferences
 - Join online communities (Reddit, LinkedIn groups, etc)
 
